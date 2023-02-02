@@ -12,3 +12,6 @@ Studio -> Manage Packages -> Community -> (Search) Video Processing -> pick the 
 `Extract Audio - MP3`: Extracts audio from an mp4 file and saves it as an mp3 file
 
 `Extract Frames - JPEG`: Extracts image frames from an mp4 file and saves the jpeg images to a folder
+
+## Prerequisites
+`FFmpeg`: Download and install [FFmpeg](https://ffmpeg.org/), and then specify the installation location within the activities properties.  E.g. c:\FFmpeg (the activity looks for c:\FFmpeg\bin\ffmpeg.exe)
