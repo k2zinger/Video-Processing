@@ -6,7 +6,7 @@ Extract frames and audio from mp4 files
 
 
 ## Installation
-Studio -> Manage Packages -> Community -> (Search) Video Processing -> pick the package(s) to install and click Install -> Save
+Studio -> Manage Packages -> Community -> (Search) UiPathTeam.VideoProcessing.Activities -> pick the package(s) to install and click Install -> Save
 
 ## Activities
 `Extract Audio - MP3`: Extracts audio from an mp4 file and saves it as an mp3 file
